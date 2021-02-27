@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="BGWebAPI" />
+        <module name="BGWepAPI" />
       </profile>
     </annotationProcessing>
   </component>
