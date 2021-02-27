@@ -9,4 +9,9 @@ public class BGVerseGenerator {
 		int chapter =  random.nextInt(18) + 1;
 		return Integer.toString(chapter);
 	}
+
+	//TODO: To be implemented
+	public static String getVerse() {
+		return "";
+	}
 }
