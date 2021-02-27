@@ -1,0 +1,5 @@
+com\mg\bgwepscraper\utils\BGURLBuilder.class
+com\mg\bgwepscraper\utils\BGVerseGenerator.class
+com\mg\bgwepscraper\utils\BGWebScraper.class
+com\mg\bgwepscraper\App.class
+com\mg\bgwepscraper\utils\BGVersePrinter.class
